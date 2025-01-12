@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HaydenWorrell
 - 👀 I’m interested in ... Learning more about software development
-- 🌱 I’m currently learning ... The C# language
+- 🌱 I’m currently learning ... Python back end development on Boot.dev
 - 💞️ I’m looking to collaborate on ... Beginner level projects for now
-- 📫 How to reach me ... McSmilesPhone#7111 on Discord. 
+- 📫 How to reach me ... mcsmiles on Discord. 
 
 <!---
 HaydenWorrell/HaydenWorrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
